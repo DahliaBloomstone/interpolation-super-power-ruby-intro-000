@@ -8,5 +8,5 @@ def display_rainbow(colors)
   puts "I: #{colors[5]}"
   puts "V: #{colors[6]}"
 
-  print display_rainbow
+  print display_rainbow(colors)
 end
